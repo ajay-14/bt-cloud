@@ -1,0 +1,3 @@
+com\bugtracking\Sprinbootprj5ApplicationTests.class
+com\bugtracking\controllerTest\BugControllerTest.class
+com\bugtracking\serviceTest\BugServiceImplTest.class
