@@ -1,0 +1,11 @@
+com\bugtracking\admin\dto\Employee.class
+com\bugtracking\admin\AdminmoduleApplication.class
+com\bugtracking\admin\dto\Bug2.class
+com\bugtracking\admin\dto\Project2.class
+com\bugtracking\admin\responses\Responseinfo.class
+com\bugtracking\admin\dto\Employee2.class
+com\bugtracking\admin\dto\Bug.class
+com\bugtracking\admin\globalexceptionhandler\GlobalExceptionHandler.class
+com\bugtracking\admin\controller\AdminConsumer.class
+com\bugtracking\admin\dto\Project.class
+com\bugtracking\admin\enums\bugstatus.class

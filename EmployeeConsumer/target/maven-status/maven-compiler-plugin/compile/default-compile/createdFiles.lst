@@ -1,0 +1,8 @@
+com\bugtracking\employee\enums\bugstatus.class
+com\bugtracking\employee\dto\Bug.class
+com\bugtracking\employee\EmployeeConsumerApplication.class
+com\bugtracking\employee\controller\EmployeeConsumer.class
+com\bugtracking\employee\dto\Employee.class
+com\bugtracking\employee\responses\Responseinfo.class
+com\bugtracking\employee\dto\Project.class
+com\bugtracking\employee\globalexceptionhandler\GlobalExceptionHandler.class
